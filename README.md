@@ -26,3 +26,4 @@
 - Main menu/File/Settings: ctrl+shift+s (ok)
 - Main menu/File/Project structure: ctrl+shift+alt+s (ok)
 - Main menu/Navigate/Declaration: F3/ctrl+click (ok)
+- Main menu/Edit/Find/Find in path: ctrl+shift+f (ok)
