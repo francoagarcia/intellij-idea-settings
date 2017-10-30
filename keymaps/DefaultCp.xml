@@ -5,6 +5,7 @@
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
+  <action id="BaseOnThisFunction" />
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -55,6 +56,9 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="ReplaceInPath" />
   <action id="RerunTests" />
   <action id="Resume">
@@ -72,6 +76,9 @@
   </action>
   <action id="Switcher" />
   <action id="ToggleBookmark7" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchy.BaseOnThisType" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.MoveWatchUp" />
 </keymap>
