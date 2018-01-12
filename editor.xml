@@ -4,8 +4,7 @@
     <option name="FONT_FAMILY" value="Source Code Pro" />
     <option name="FONT_SCALE" value="1.5" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
   </component>
 </application>
